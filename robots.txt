@@ -1,0 +1,10 @@
+# Ocean Stay Kojohama permits conventional search indexing, AI search and
+# user-requested retrieval, and model-training crawlers.
+
+User-agent: *
+Content-Signal: search=yes,ai-input=yes,ai-train=yes,use=full
+Allow: /
+
+Sitemap: https://kojohamacabins.jp/sitemap.xml
+Sitemap: https://kojohamacabins.jp/sitemap-zh-cn.xml
+Sitemap: https://kojohamacabins.jp/sitemap-ko.xml
