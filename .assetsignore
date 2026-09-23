@@ -1,2 +1,11 @@
 # Windows and Google Drive sync metadata; never publish these files.
 desktop.ini
+
+# Repo and deploy files; never publish.
+wrangler.jsonc
+.wrangler
+node_modules
+README.md
+.git
+.github
+.gitignore
